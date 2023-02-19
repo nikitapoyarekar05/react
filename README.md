@@ -1,1 +1,1 @@
-# This repo contains some practice projects developed using React framework.
+This repo contains some practice projects developed using React framework.
